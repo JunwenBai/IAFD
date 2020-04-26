@@ -366,7 +366,7 @@ Example:
 
 
 
-## Contact me
+### Contact me
 
 If you have any questions or suggestions, please feel free to contact jb2467@cornell.edu or rab38@cornell.edu.
 
