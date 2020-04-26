@@ -146,7 +146,7 @@ Options:
 
 
 
-### Command Example
+### Example Command
 
 ```bash
 ./iafd --inst input/Ta-Rh-Pd/Ta-Rh-Pd_inst.txt --m 30 --k 6 --time 10 --sol output/Ta-Rh-Pd_output.txt --c 1e-5 --beta 1.0 --mipgap 0.1 --Gibbs --sparsity 0.1 --neighbors input/Ta-Rh-Pd/Ta-Rh-Pd_edges.txt --AGrounds 3 --MatchShiftTol 0.1 --MatchSigmaTol 2.0 --ConnectAgent --AlloyAgent --AlloyTol 0.003 --sticks input/Ta-Rh-Pd/sticks/sticks.txt
